@@ -1,0 +1,6 @@
+{
+  "name": "PatchPro AV",
+  "description": "Sistema táctico de gestión de planos de señal AV, matriz de conmutación y lista de carga/BOM para eventos en directo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
